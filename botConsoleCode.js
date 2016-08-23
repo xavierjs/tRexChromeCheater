@@ -1,8 +1,8 @@
 var domCv=document.getElementsByClassName('runner-canvas')[0];
 var ctx=domCv.getContext('2d');
-var xChouffeMax=130;
+var xChouffeMax=150;
 var xChouffeMin=90;
-var yChouffeMin=100;//123;
+var yChouffeMin=100;
 var yChouffeMax=123;
 
 var zou=function() {
